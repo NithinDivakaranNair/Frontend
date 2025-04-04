@@ -1,4 +1,4 @@
-# Project Title
+# React todo App
 
 A responsive React application built using **Vite**, **Tailwind CSS**, and **React Hooks**.
 
